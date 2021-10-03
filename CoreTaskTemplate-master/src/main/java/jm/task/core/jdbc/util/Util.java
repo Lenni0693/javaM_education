@@ -11,7 +11,7 @@ public class Util {
     public Util() {
         url = "jdbc:mysql://localhost:3306/java_mentor?serverTimezone=Europe/Moscow";
         name = "Lenie";
-        password = "LenieMail";
+        password = "123";
     }
     public Connection getConnection() {
         Connection con = null;
